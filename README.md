@@ -5,10 +5,13 @@ Material contendo exemplos de códigos das aulas do curso JavaScript-IFRS.
 ### Links Uteis
 **Algumas bibliotecas JavaScript:**
  
- * [JQUERY](https://jquery.com/) Funções JavaScript simplificadas (JQUERY UI; JQUERY MOBILE)
- * [MATHJS](https://mathjs.org/) Operações matematicas
- * [DROPZONE](https://www.dropzone.dev/js/) Arrastar e soltar arquivos para Upload
- * [FORMATJS](https://formatjs.io/) Altera o formato dos textos para diferentes paises (data, hora, etc)
+*[JQUERY](https://jquery.com/) Funções JavaScript simplificadas (JQUERY UI; JQUERY MOBILE)*
+
+*[MATHJS](https://mathjs.org/) Operações matematicas*
+
+*[DROPZONE](https://www.dropzone.dev/js/) Arrastar e soltar arquivos para Upload*
+
+*[FORMATJS](https://formatjs.io/) Altera o formato dos textos para diferentes paises (data, hora, etc)*
 
 * **[1 Operações Aritméticas:](https://github.com/leonlauriano/aulas-javascript-ifrs/tree/main/1-c%C3%B3digo-fonte%20opera%C3%A7%C3%B5es%20aritm%C3%A9ticas) Campo mostrando a soma de 10+3 e em seguida um campo pra preencher o nome e um agradecimento.**
 
